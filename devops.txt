@@ -1,0 +1,10 @@
+git clone 
+cd 02Feb2023
+create a file "02Feb2023 Folder"
+git status
+git add newfile.txt
+git status
+git commit -m "this is commit by MD"
+git status
+git push origin -u main
+git push
