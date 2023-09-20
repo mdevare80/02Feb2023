@@ -6,6 +6,8 @@ public class Sum {
     
     public static void main(String[] args) {
         
-        sum(5,5);
+        int ans = sum(5,5);
+        
+        System.out.println(ans);
     }
 }
