@@ -1,0 +1,19 @@
+To contribute to the other's repo on GitHub using git
+
+Steps: 
+
+1. pwd -> stands for present working directory
+
+2. git clone -> to copy the repo of others in your local machine
+
+3. git add . or git add --all or git add [file_name] -> to add the new file to the repo or folder
+
+4. git status -> to check the status of current dirc.
+
+5. git commit -m "message" -> to commit the changes in GitHub repo  
+
+6. git log -> to check the all commits of repo
+
+7. git push origin push ->  to push the changes or commit to the GitHub repo
+
+8. 
